@@ -1,7 +1,7 @@
 
 .container
 {
-	background-color:"";
+	background-color:red;
 	width:100%;
 	height:auto;
 	margin:20px auto;
@@ -33,9 +33,9 @@
 }
 .main
 {
-	background-color:GRAY;
+	background-color:gray;
 	width:100%;
-	height:Auto%;
+	height:auto%;
 	float:left;
 }
 .footer
